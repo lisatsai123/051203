@@ -1,0 +1,308 @@
+@charset "utf-8";
+.container {
+	left: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+h1 {
+	color: #2B3911;
+	text-align: center;
+	padding-bottom: 0px;
+	margin-left: 59px;
+}
+nav {
+	text-align: center;
+	margin-right: 30px;
+	display: flex;
+	align-items: flex-start;
+	width: 100%;
+	background-color: #CEB1F8;
+	opacity: 0.8;
+	margin-top: -70px;
+	flex-direction: column;
+	height: 70px;
+	position: fixed;
+}
+main {
+	margin-top: -65px;
+
+
+}
+.box01   {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.col01 {
+	background-color: #010101;
+	width: 300px;
+	height: 27px;
+	color: #F3F2F2;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -27px;
+	opacity: 0.8;
+}
+
+
+
+
+a:link {
+	color: #38584B;
+	text-decoration: none;
+	margin-right: 23px;
+}
+a:hover {
+	color: #E8E756;
+	text-decoration: underline;
+	font-size: medium;
+}
+a:visited {
+	color: #AAA93C;
+}
+article h3 {
+	background-color: #C9C8EB;
+	color: #153A21;
+	border-radius: 36px;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 710px;
+	margin-top: -1px;
+
+
+}
+
+h4 {
+	text-align: center;
+
+
+
+
+}
+
+h5 {
+	color: #7B75F9;
+		
+}
+header h3 {
+	margin-top: 67px;
+	text-align: center;
+	color: #E3D25D;
+	line-height: 200px;
+
+}
+header p {
+	text-align: center;
+	color: #3B014E;
+	line-height: 200px;
+	margin-top: -148px;
+	font-size: medium;
+}
+
+header {
+	background-image: url(素材/background.jpg);
+	height: 200px;
+	background-size: cover;
+	background-position: center center;
+}
+.col02 {
+	background-color: #010101;
+	width: 300px;
+	height: 27px;
+	color: #F3F2F2;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -27px;
+	opacity: 0.8;
+}
+.col01 {
+	background-color: #010101;
+	width: 300px;
+	height: 27px;
+	color: #F3F2F2;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -27px;
+	opacity: 0.8;
+}
+.colt01   {
+	text-align: left;
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+	background-image: url(素材/台北・台北市立圖書館北投分館/taipei02.jpg);
+}
+.colt02 {
+	width: 300px;
+	height: 198px;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-image: url(素材/台北・台北市立圖書館北投分館//taipei01.jpg);
+	background-position: center center;
+	background-size: contain;
+}
+.colt11 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	margin-top: 20px;
+	background-image: url(素材/美國巴爾的摩約翰霍普金斯大學喬治皮博迪圖書館/america01.jpg);
+}
+.colt12 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	background-image: url(素材/美國巴爾的摩約翰霍普金斯大學喬治皮博迪圖書館/america%2002.jfif);
+}
+
+
+.colt03 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	margin-top: 20px;
+	background-image: url(素材/國際兒童圖書館/japan01.jfif);
+}
+.colt05 {
+	background-image: url(素材/巴黎國立圖書館/paris01.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+}
+.colt07 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+	background-image: url(素材/都柏林聖三一學院圖書館/england01.jfif);
+}
+.colt08 {
+	background-image: url(素材/都柏林聖三一學院圖書館/england02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+}
+.colt13 {
+	background-image: url("素材/紐約公共圖書館/new york01.jpg");
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+}
+.colt14 {
+	background-image: url("素材/紐約公共圖書館/new york02.JPG");
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+}
+.colt15 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+	background-image: url(素材/維多利亞州立圖書館/europe01.jpg);
+}
+.colt16 {
+	background-image: url(素材/維多利亞州立圖書館/europe02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+}
+
+
+
+
+.colt09 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	margin-top: 20px;
+	background-image: url(素材/非洲塔博·姆貝基總統圖書館/africa01.jpg);
+}
+.colt10 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-image: url(素材/非洲塔博·姆貝基總統圖書館/africa02.jpg);
+}
+
+
+
+
+.colt06 {
+	background-image: url(素材/巴黎國立圖書館/paris02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+}
+
+
+.colt04 {
+	background-image: url(素材/國際兒童圖書館/japan02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+}
+.parallaxie{
+
+}
+.map {
+margin-left: 570px;
+
+}
+
+
+
+.country {
+	background-color: #BCADAD;
+}
